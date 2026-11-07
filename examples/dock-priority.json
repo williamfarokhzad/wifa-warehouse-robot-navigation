@@ -1,0 +1,1 @@
+{"grid":["#.#","..."],"horizon":6,"robots":[{"name":"B","start":[2,1],"goal":[1,0]},{"name":"A","start":[0,1],"goal":[1,1]}]}
